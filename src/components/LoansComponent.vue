@@ -9,7 +9,7 @@
 
 <script>
 export default {
-    unionLoansObject: {"A":"B"},
+    unionLoansObject: {},
     name: "LoansComponent",
     props: {
         loansArray: Array
